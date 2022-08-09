@@ -16,10 +16,7 @@
 - 👀 I'm interested in development and testing...
 - 🌱 I’m currently learning ...
 - 💞️ I am looking for internship opportunities...
-- 📫 How to reach me ... https://t.me/rshelofast
-- <a href="https://telegram.me/share/url?url=<[URL](https://t.me/rshelofast)>&text=<TEXT>">Telegram</a>
-  <a href="tg://msg?text=<?php echo urlencode( '<TEXT>' ); ?>&to=<PHONE>">Telegram</a>
-<a href="https://telegram.me/rshelofast">Написать автору</a>
+- 📫 <a href="https://telegram.me/rshelofast">How to reach me ...</a>
 
 
 
