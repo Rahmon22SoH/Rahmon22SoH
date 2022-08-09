@@ -17,5 +17,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I am looking for internship opportunities...
 - 📫 How to reach me ... https://t.me/rshelofast
+- <a href="https://telegram.me/share/url?url=<[URL](https://t.me/rshelofast)>&text=<TEXT>">Telegram</a>
+
 
 
